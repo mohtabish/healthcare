@@ -11,3 +11,5 @@ Features I Added
 - Patient search functionality
 - Doctor specialization filtering
 - Custom authentication system
+
+Note - If the server does not work on giving "python manage.py runserver" command, try adding /admin/ after the host.
